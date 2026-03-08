@@ -1,4 +1,4 @@
-### 🩺 Indian Diabetes Prediction — Statistical Analysis & Machine Learning
+# 🩺 Indian Diabetes Prediction — Statistical Analysis & Machine Learning
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/718b9c6c-006d-4c11-8552-e6bd586ccd9a" />
 
