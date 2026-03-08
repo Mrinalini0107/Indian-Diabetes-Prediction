@@ -1,4 +1,4 @@
-# 🩺 Indian Diabetes Prediction — Statistical Analysis & Machine Learning
+# 🩺 Indian Diabetes Prediction - Statistical Analysis & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
